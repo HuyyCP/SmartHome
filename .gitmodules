@@ -1,0 +1,18 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/HuyyCP/SmartHome_FE.git
+[submodule "ServerApp"]
+	path = ServerApp
+	url = https://github.com/HuyyCP/SmartHome_ServerApp.git
+[submodule "AI"]
+	path = AI
+	url = https://github.com/HuyyCP/SmartHome_AI.git
+[submodule "ServerAI"]
+	path = ServerAI
+	url = https://github.com/HuyyCP/SmartHome_ServerAI.git
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/HuyyCP/SmartHome_Firmware.git
+[submodule "ServerFirmware"]
+	path = ServerFirmware
+	url = https://github.com/HuyyCP/SmartHome_ServerFirmware.git
